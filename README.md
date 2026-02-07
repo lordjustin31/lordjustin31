@@ -4,7 +4,7 @@
 </p>
 
 <!-- Introduction -->
-<h1 align="center">Hi 👋, I'm Justin</h1>
+<h1 align="center">Hi 👋, I'm Lord Justin</h1>
 <h3 align="center">BSIT Student | Future Software Developer</h3>
 
 ---
